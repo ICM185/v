@@ -18,8 +18,23 @@ body{
 iframe{
     border-radius: 20px;
 } 
-
+.iframe{
+    width: 1280px;
+    height: 630px;
+}
 .meh2{
     margin-top:50px
     
 }
+@media only screen and (max-width:700px){
+    
+    iframe{
+        width: 280px;
+        height: 157.5px;
+    }
+    .iframe{
+        width: 280px;
+        height: 157.5px;
+    }
+}
+    
