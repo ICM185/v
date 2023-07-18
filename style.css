@@ -19,7 +19,7 @@ iframe{
     border-radius: 20px;
 } 
 .iframe{
-    width: 1280px;
+    width: 1120px;
     height: 630px;
 }
 .meh2{
@@ -37,4 +37,8 @@ iframe{
         height: 157.5px;
     }
 }
-    
+@media only screen and (min-width:1366px){
+    .iframe{
+        width: 
+    }
+}    
